@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @paco-ruvalcaba
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning Haskell
+- 🌱 I’m currently learning ~~Haskell~~ Git
 - 📫 How to reach me ...
 
 <!---
